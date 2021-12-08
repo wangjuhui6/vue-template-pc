@@ -1,0 +1,19 @@
+html,
+body{
+  padding: 0;
+  margin: 0;
+}
+.w100{
+  width: 100%;
+}
+.w50{
+  width: 50%;
+}
+.flex{
+  display: flex;
+  display: -webkit-flex;
+}
+.flex-center{
+  align-items: center;
+  justify-content: center;
+}
